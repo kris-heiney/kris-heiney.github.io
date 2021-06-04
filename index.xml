@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristine Heiney, PhD Fellow on Kristine Heiney</title>
+    <link>https://kris-heiney.github.io/</link>
+    <description>Recent content in Kristine Heiney, PhD Fellow on Kristine Heiney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Apr 2021 17:04:02 -0400</lastBuildDate><atom:link href="https://kris-heiney.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moments</title>
+      <link>https://kris-heiney.github.io/twitter/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://kris-heiney.github.io/twitter/</guid>
+      <description>Tweets by KrisHeiney</description>
+    </item>
+    
+    <item>
+      <title>Kristine Heiney</title>
+      <link>https://kris-heiney.github.io/cv/</link>
+      <pubDate>Mon, 19 Apr 2021 20:48:44 -0400</pubDate>
+      
+      <guid>https://kris-heiney.github.io/cv/</guid>
+      <description>PhD Fellow, Oslo Metropolitan University
+ EDUCATION PhD in Computer Science Jun 2023 (expected)
+NTNU, Faculty of Information Technology
+Oslo Metropolitan University, Faculty of Technology, Art and Design
+MSc in Biomedical Engineering Jun 2018
+University of Porto, Faculty of Engineering
+Dissertation: &amp;ldquo;Novel Methodologies to Study the Crosstalk Between Neurons and Bone Using Advanced Microfluidic Platforms Containing Microelectrodes&amp;rdquo;
+BSc in Applied and Engineering Physics May 2010
+Cornell University, College of Engineering</description>
+    </item>
+    
+    <item>
+      <title>Research interests</title>
+      <link>https://kris-heiney.github.io/researchinterests/</link>
+      <pubDate>Mon, 19 Apr 2021 20:22:44 -0400</pubDate>
+      
+      <guid>https://kris-heiney.github.io/researchinterests/</guid>
+      <description>I am interested in understanding how neurons compute: how they encode, store, and process information. My background in engineering physics colors my approach to this question, but I work best in interdisciplinary settings integrating many different perspectives on neuroscientific problems.
+Signatures of criticality in neural systems My current research has been focused on studying the question of neural computation through the lens of criticality. The critical state, poised between order and disorder, shows many features associated with good computational performance, such as maximal dynamic range and long-range spatiotemporal correlations.</description>
+    </item>
+    
+    <item>
+      <title>Select publications</title>
+      <link>https://kris-heiney.github.io/publications/</link>
+      <pubDate>Mon, 19 Apr 2021 14:56:33 -0400</pubDate>
+      
+      <guid>https://kris-heiney.github.io/publications/</guid>
+      <description>Full list of publications available on Google Scholar.
+ Heiney, Kristine; Huse Ramstad, Ola; Fiskum, Vegard; Christiansen, Nicholas; Sandvig, Axel; Nichele, Stefano; Sandvig, Ioanna (2021). “Criticality, Connectivity, and Neural Disorder: A Multifaceted Approach to Neural Computation.” Front Comput Neurosci 15.
+Heiney, Kristine; Mateus, José C.; Lopes, Cátia D.F.; Neto, Estrela; Lamghari, Meriem; Aguiar, Paulo (2019). “µSpikeHunter: An advanced computational tool for the analysis of neuronal communication and action potential propagation in microfluidic platforms.</description>
+    </item>
+    
+  </channel>
+</rss>
