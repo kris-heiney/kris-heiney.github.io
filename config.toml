@@ -1,0 +1,94 @@
+theme = "soho"
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "Kristine Heiney"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+enableEmoji = true
+
+[params]
+
+author = "Kristine Heiney"
+description = "PhD Fellow, <br>NTNU & OsloMet"
+
+#gravatar = "kristine.heiney@oslomet.no"
+images = ["images/profile.png"]
+profilePicture = "images/profile.png"
+
+copyright = "Kristine Heiney"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+
+## Set custom theme color.
+themeColor = "#3B92A0"
+
+  [[params.socialIcons]]
+  icon = "fa-google"
+  title = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=NHrhr68AAAAJ"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/krisheiney"
+
+  [[params.socialIcons]]
+  icon = "fa-researchgate"
+  title = "ResearchGate"
+  url = "https://www.researchgate.net/profile/Kristine-Heiney"
+
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/krisheiney/"
+
+  [[params.socialIcons]]
+  icon = "fas fa-envelope"
+  title = "Email"
+  url = "mailto:kristine.heiney@oslomet.no"
+
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+  name = "Publications"
+  weight = 10
+  identifier = "publications"
+  url = "/publications/"
+
+  [[menu.main]]
+  name = "Research Interests"
+  weight = 20
+  identifier = "researchinterests"
+  url = "/researchinterests/"
+
+  [[menu.main]]
+  name = "CV"
+  weight = 30
+  identifier = "cv"
+  url = "/cv/"
+
+  [[menu.main]]
+  name = "Contact"
+  identifier = "contact"
+  weight = 40
+  url = "mailto:kristine.heiney@oslomet.no"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
