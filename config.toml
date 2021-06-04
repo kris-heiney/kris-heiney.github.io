@@ -1,5 +1,5 @@
 theme = "soho"
-baseURL = "http://example.org/"
+baseURL = "https://kris-heiney.github.io/"
 languageCode = "en"
 title = "Kristine Heiney"
 DefaultContentLanguage = "en"
