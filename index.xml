@@ -10,7 +10,7 @@
     <item>
       <title>Moments</title>
       <link>https://kris-heiney.github.io/twitter/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 22 May 2019 00:00:00 -0400</pubDate>
       
       <guid>https://kris-heiney.github.io/twitter/</guid>
       <description>Tweets by KrisHeiney</description>
@@ -22,15 +22,7 @@
       <pubDate>Mon, 19 Apr 2021 20:48:44 -0400</pubDate>
       
       <guid>https://kris-heiney.github.io/cv/</guid>
-      <description>PhD Fellow, Oslo Metropolitan University
- EDUCATION PhD in Computer Science Jun 2023 (expected)
-NTNU, Faculty of Information Technology
-Oslo Metropolitan University, Faculty of Technology, Art and Design
-MSc in Biomedical Engineering Jun 2018
-University of Porto, Faculty of Engineering
-Dissertation: &amp;ldquo;Novel Methodologies to Study the Crosstalk Between Neurons and Bone Using Advanced Microfluidic Platforms Containing Microelectrodes&amp;rdquo;
-BSc in Applied and Engineering Physics May 2010
-Cornell University, College of Engineering</description>
+      <description>Kristine Heiney&amp;rsquo;s CV.</description>
     </item>
     
     <item>
@@ -39,8 +31,7 @@ Cornell University, College of Engineering</description>
       <pubDate>Mon, 19 Apr 2021 20:22:44 -0400</pubDate>
       
       <guid>https://kris-heiney.github.io/researchinterests/</guid>
-      <description>I am interested in understanding how neurons compute: how they encode, store, and process information. My background in engineering physics colors my approach to this question, but I work best in interdisciplinary settings integrating many different perspectives on neuroscientific problems.
-Signatures of criticality in neural systems My current research has been focused on studying the question of neural computation through the lens of criticality. The critical state, poised between order and disorder, shows many features associated with good computational performance, such as maximal dynamic range and long-range spatiotemporal correlations.</description>
+      <description>Kristine Heiney is interested in studying neural computation through a combination of data analysis and theoretical models.</description>
     </item>
     
     <item>
@@ -49,9 +40,7 @@ Signatures of criticality in neural systems My current research has been focused
       <pubDate>Mon, 19 Apr 2021 14:56:33 -0400</pubDate>
       
       <guid>https://kris-heiney.github.io/publications/</guid>
-      <description>Full list of publications available on Google Scholar.
- Heiney, Kristine; Huse Ramstad, Ola; Fiskum, Vegard; Christiansen, Nicholas; Sandvig, Axel; Nichele, Stefano; Sandvig, Ioanna (2021). “Criticality, Connectivity, and Neural Disorder: A Multifaceted Approach to Neural Computation.” Front Comput Neurosci 15.
-Heiney, Kristine; Mateus, José C.; Lopes, Cátia D.F.; Neto, Estrela; Lamghari, Meriem; Aguiar, Paulo (2019). “µSpikeHunter: An advanced computational tool for the analysis of neuronal communication and action potential propagation in microfluidic platforms.</description>
+      <description>A list of selected journal articles and conference papers by Kristine Heiney.</description>
     </item>
     
   </channel>
