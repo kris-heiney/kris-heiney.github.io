@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kristine Heiney, PhD Fellow on Kristine Heiney</title>
+    <title>Kristine Heiney, PhD on Kristine Heiney</title>
     <link>https://kris-heiney.github.io/</link>
-    <description>Recent content in Kristine Heiney, PhD Fellow on Kristine Heiney</description>
+    <description>Recent content in Kristine Heiney, PhD on Kristine Heiney</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Apr 2021 17:04:02 -0400</lastBuildDate><atom:link href="https://kris-heiney.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Kristine Heiney</title>
+      <title>Kristine Heiney, PhD</title>
       <link>https://kris-heiney.github.io/cv/</link>
       <pubDate>Mon, 19 Apr 2021 20:48:44 -0400</pubDate>
       
@@ -35,7 +35,16 @@
     </item>
     
     <item>
-      <title>Select publications</title>
+      <title>Contact</title>
+      <link>https://kris-heiney.github.io/contact/</link>
+      <pubDate>Mon, 19 Apr 2021 14:56:33 -0400</pubDate>
+      
+      <guid>https://kris-heiney.github.io/contact/</guid>
+      <description>Ways to reach Kristine Heiney.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
       <link>https://kris-heiney.github.io/publications/</link>
       <pubDate>Mon, 19 Apr 2021 14:56:33 -0400</pubDate>
       
