@@ -4,53 +4,37 @@
     <title>Kristine Heiney, PhD on Kristine Heiney</title>
     <link>https://kris-heiney.github.io/</link>
     <description>Recent content in Kristine Heiney, PhD on Kristine Heiney</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Apr 2021 17:04:02 -0400</lastBuildDate><atom:link href="https://kris-heiney.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Moments</title>
-      <link>https://kris-heiney.github.io/twitter/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://kris-heiney.github.io/twitter/</guid>
-      <description>Tweets by KrisHeiney</description>
-    </item>
-    
+    <lastBuildDate>Mon, 19 Apr 2021 20:48:44 -0400</lastBuildDate>
+    <atom:link href="https://kris-heiney.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kristine Heiney, PhD</title>
       <link>https://kris-heiney.github.io/cv/</link>
       <pubDate>Mon, 19 Apr 2021 20:48:44 -0400</pubDate>
-      
       <guid>https://kris-heiney.github.io/cv/</guid>
       <description>Kristine Heiney&amp;rsquo;s CV.</description>
     </item>
-    
     <item>
       <title>Research interests</title>
       <link>https://kris-heiney.github.io/researchinterests/</link>
       <pubDate>Mon, 19 Apr 2021 20:22:44 -0400</pubDate>
-      
       <guid>https://kris-heiney.github.io/researchinterests/</guid>
       <description>Kristine Heiney is a computational neuroscientist interested in studying neural computation through a combination of data analysis and theoretical models.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://kris-heiney.github.io/contact/</link>
       <pubDate>Mon, 19 Apr 2021 14:56:33 -0400</pubDate>
-      
       <guid>https://kris-heiney.github.io/contact/</guid>
       <description>Ways to reach Kristine Heiney.</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://kris-heiney.github.io/publications/</link>
       <pubDate>Mon, 19 Apr 2021 14:56:33 -0400</pubDate>
-      
       <guid>https://kris-heiney.github.io/publications/</guid>
       <description>A list of selected journal articles and conference papers by Kristine Heiney.</description>
     </item>
-    
   </channel>
 </rss>
